@@ -1,4 +1,4 @@
-## This repository contains machine learning models made for WOC 5.0 2023
+## This repository contains machine learning models made for understanding
 
 ### It has implementations of the following algorithms from scratch.
 
