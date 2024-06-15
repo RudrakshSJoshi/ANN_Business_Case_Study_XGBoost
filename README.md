@@ -6,6 +6,8 @@
 
  + Polynomial Regression
 
+ + Softmax Regression
+
  + Logistic Regression
 
  + K-Nearest Neighbours
