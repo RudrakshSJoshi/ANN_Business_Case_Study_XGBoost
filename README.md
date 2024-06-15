@@ -11,5 +11,3 @@
  + K-Nearest Neighbours
 
  + n-layer Neural Network
-
- + Project Report
